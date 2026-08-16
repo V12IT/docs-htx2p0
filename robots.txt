@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-97zxtq.radarsatu88.cfd/sitemap.xml
